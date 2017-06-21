@@ -7,10 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/fresh5447/node_intro_mis.git"
-  },
+  "repository": "git+https://github.com/fresh5447/node_intro_mis.git",
   "author": "Doug Walter",
   "license": "ISC",
   "bugs": {
@@ -18,8 +15,8 @@
   },
   "homepage": "https://github.com/fresh5447/node_intro_mis#readme",
   "dependencies": {
-    "body-parser": "^1.16.1",
+    "body-parser": "^1.17.2",
     "ejs": "^2.5.5",
-    "express": "^4.14.1"
+    "express": "^4.15.3"
   }
 }

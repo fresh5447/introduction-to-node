@@ -4,6 +4,11 @@ Learn node in this linear code along. It explores HTTP, express, params, posting
 
 ----
 
+## Resources
+(Command Line Notes)[https://github.com/fresh5447/introduction-to-node/blob/master/CL.md]
+(Node Powerpoint)[https://docs.google.com/presentation/d/1RgeLtO8DaSwroeRqQK1M25Y_w7dByuC-HG9Y8akRJoc/edit]
+
+----
 
 
 ### Up and Running
